@@ -1,0 +1,10 @@
+github.com/BertoldVdb/go-ais v0.0.0-20191119203032-8b86faa5c444 h1:ceqe1jZzWj+5qzwSLtL6nmC3IvuukvtLpTw5ElMTXE0=
+github.com/BertoldVdb/go-ais v0.0.0-20191119203032-8b86faa5c444/go.mod h1:IekGWhyWQtlAVjTLcQahsjwzqCvz4oV2WrohF20kARw=
+github.com/adrianmo/go-nmea v1.1.0 h1:0NILSj14nj6LvVQHo/afHbyPgGz5qvp5PM6jmMyAQzY=
+github.com/adrianmo/go-nmea v1.1.0/go.mod h1:HHPxPAm2kmev+61qmkZh7xgZF/7qHtSpsWppip2Ipv8=
+github.com/adrianmo/go-nmea v1.1.1-0.20200214135628-15313add3c03 h1:xgbx6K5gEUZgfueCnIb2ovtB1HRpDx6+s6BEjkAqad4=
+github.com/adrianmo/go-nmea v1.1.1-0.20200214135628-15313add3c03/go.mod h1:unsZUyxle3sYuVytxYAkVeIJttLbB3KZexc/A/vlnBI=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/testify v1.2.1/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
